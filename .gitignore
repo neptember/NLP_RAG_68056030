@@ -1,0 +1,15 @@
+# API Keys
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Backup
+backup/
+
+# Logs
+*.log
